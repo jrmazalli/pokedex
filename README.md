@@ -1,11 +1,7 @@
 ## Pokedex
-### projeto para estudo Html, CSS e JavaScrip
-<br>
+projeto para estudo Html, CSS e JavaScrip
 
-<div align="center">
-  
-[![Image](https://github.com/jrmazalli/pokedex/blob/master/src/imagens/projeto.png?raw=true "tela inicial")]()
-  
-</div>
+
+
 
 
